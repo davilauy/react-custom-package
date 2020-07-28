@@ -3,6 +3,6 @@
 Example:
 
 ```
-    const url = API_URL;
-    const { data: null, loading: true, error: null } = useFetch(url);
+const url = API_URL;
+const { data: null, loading: true, error: null } = useFetch(url);
 ```
