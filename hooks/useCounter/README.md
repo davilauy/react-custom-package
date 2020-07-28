@@ -3,5 +3,5 @@
 Example:
 
 ```
-const [counter, increment, decrement, reset] = useCounter(initialValue)
+    const [counter, increment, decrement, reset] = useCounter(initialValue);
 ```
